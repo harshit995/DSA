@@ -8,13 +8,31 @@ public class Switch {
         Scanner in= new Scanner(System.in);
         String fruit =in.next();
 
-        if(fruit.equals("mango")){
-            System.out.println("King of Fruits");
-        } else if(fruit.equals("Apple")){
-            System.out.println("Keeps the doctor away");
+
+        switch (fruit) {
+            case "Mango" -> System.out.println("King");
+            case "Apple" -> System.out.println("sweet red");
+            case "Orange" -> System.out.println("round");
+            case "Grapes" -> System.out.println("small fruit");
+            default -> System.out.println("please enter valid info");
         }
-        else{
-            System.out.println("invalid fruit");
-        }
+
+
+//        switch(fruit){
+//            case "Mango":
+//                System.out.println("King");
+//                break;
+//            case "Apple":
+//                System.out.println("sweet red");
+//                break;
+//            case "Orange":
+//                System.out.println("round");
+//                break;
+//                case "Grapes":
+//                System.out.println("small fruit");
+//                break;
+//            default:
+//                System.out.println("please enter valid info");
+//        }
     }
 }
