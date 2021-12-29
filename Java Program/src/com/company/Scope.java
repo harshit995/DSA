@@ -10,6 +10,7 @@ public class Scope {
             int c =99;
             //valus initialised in block cannot use outside block
         }
+
     }
     static  void random(int marks){
         int num=67;
