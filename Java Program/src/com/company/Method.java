@@ -1,12 +1,8 @@
 package com.company;
-
 import java.util.Scanner;
-
 public class Method {
     public static void main(String[] args) {
         // take input of two numbers amd print sum
-
-
 //        int  num1,num2,sum;
 //
 //        System.out.println("enter no. 1");
