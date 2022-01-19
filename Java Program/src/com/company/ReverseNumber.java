@@ -1,5 +1,4 @@
 package com.company;
-
 public class ReverseNumber {
     public static void main(String[] args) {
         int n=28479;
