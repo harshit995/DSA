@@ -19,7 +19,7 @@ public class Switch {
 
 
 //        switch(fruit){
-//            case "Mango":
+//            case "mango":
 //                System.out.println("King");
 //                break;
 //            case "Apple":

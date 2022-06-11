@@ -9,5 +9,6 @@ public class Temperature {
         double c=input.nextDouble();
         double temp= (c*9/5) +32 ;
         System.out.println("Your temperature in farenheit is " +temp);
+
     }
 }
