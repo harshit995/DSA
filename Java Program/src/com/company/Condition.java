@@ -10,6 +10,14 @@ public class Condition {
 //            salary=salary+1000;
 //        }
 
+        int age=89;
+        if(age>18){
+            System.out.println("you are eligible");
+        }
+        else{
+            System.out.println("not eligible");
+        }
+
         if(salary < 10000){
             salary +=3000;
         }
