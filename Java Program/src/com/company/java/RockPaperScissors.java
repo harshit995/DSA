@@ -17,7 +17,6 @@ public class RockPaperScissors {
             System.out.println(b);
             System.out.println("Match Number: "+ i );
             switch(b){
-
                 case 0 -> {
                     switch(a){
                         case 0 -> System.out.println("Tie");

@@ -17,14 +17,30 @@ public class Loops {
 //        while loop
  int num = 1;
         while(num<=5){
-//            System.out.println(num);
+            System.out.println(num);
+            if (num == 2) {
+                System.out.println("ending");
+                break;
+            }
             num++;
         }
+//
+//        int n= 1;
+//        do{
+//            System.out.println(n);
+//            n++;
+//        }while(n<=5);
 
-        int n= 1;
-        do{
-            System.out.println(n);
-            n++;
-        }while(n<=5);
+        for (int i = 0; i < 5; i++) {
+            System.out.println(i);
+            System.out.println("hi");
+            if (i == 2) {
+                System.out.println("out");
+                break;
+            }
+        }
+        System.out.println("here i am ");
     }
+
+
 }
