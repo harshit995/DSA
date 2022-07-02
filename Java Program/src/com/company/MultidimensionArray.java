@@ -92,7 +92,6 @@ public class MultidimensionArray {
                 System.out.format("setting value for i=%d and j=%d\n" ,i,j);
                 result[i][j]=mat1[i][j]+mat2[i][j];
             }
-
         }
 
         for (int i = 0; i < mat1.length; i++) {//row number times
