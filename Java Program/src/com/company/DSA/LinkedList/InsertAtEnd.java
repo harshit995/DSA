@@ -27,6 +27,5 @@ static class Node{
         Node head = new Node(10);
         head.next=new Node(20);
         System.out.println( insertEnd(head,52));
-    }
 }
-}
+}}
