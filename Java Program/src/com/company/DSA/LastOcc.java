@@ -12,7 +12,6 @@ public class LastOcc {
                 low = mid + 1;
             } else {
                 if (mid == n - 1 || arr[mid] != arr[mid + 1]) {
-                    ;
                     return mid;
                 } else {
                     low = mid + 1;
