@@ -9,7 +9,6 @@ public class Largest {
             }
         }
         return arr[res];
-
     }
 
     public static void main(String[] args) {
