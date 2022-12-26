@@ -1,5 +1,5 @@
 package com.company.DSA.Array;
-//{2,5,3,6}
+//{2,1,3,6}
 public class secondLargest {
     static int secondLargest(int[] arr){
         int res=-1,largest=0,n=arr.length;

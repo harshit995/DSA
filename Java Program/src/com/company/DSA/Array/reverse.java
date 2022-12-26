@@ -16,7 +16,7 @@ public class reverse {
         }
     }
     public static void main(String[] args) {
-        int arr[]={8,9,22,12};
+        int[] arr ={8,9,22,12};
         reversing(arr,4);
 
     }
