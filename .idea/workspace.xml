@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7f7ab72d-30c2-4d8b-8d0a-1501d084da5a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Program/src/com/company/DSA/Array/reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Program/src/com/company/DSA/Array/reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Program/src/com/company/DSA/Array/secondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Program/src/com/company/DSA/Array/secondLargest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.secondLargest">
+  <component name="RunManager" selected="Application.ArrayLists">
+    <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.java.ArrayLists" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CountOcc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.DSA.CountOcc" />
       <module name="DSA" />
@@ -79,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayLists" />
         <item itemvalue="Application.secondLargest" />
         <item itemvalue="Application.insert" />
         <item itemvalue="Application.CountOcc" />
