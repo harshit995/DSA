@@ -35,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.hashsets">
+  <component name="RunManager" selected="Application.Hashmaps">
     <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.java.ArrayLists" />
       <module name="DSA" />
@@ -49,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountOcc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DSA.CountOcc" />
+    <configuration name="Hashmaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DSA.Hashing.Hashmaps" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.DSA.*" />
+          <option name="PATTERN" value="com.company.DSA.Hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hashmaps" />
         <item itemvalue="Application.hashsets" />
         <item itemvalue="Application.ArrayLists" />
         <item itemvalue="Application.secondLargest" />
         <item itemvalue="Application.insert" />
-        <item itemvalue="Application.CountOcc" />
       </list>
     </recent_temporary>
   </component>
