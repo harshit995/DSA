@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f7ab72d-30c2-4d8b-8d0a-1501d084da5a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Java Program/src/com/company/java/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Program/src/com/company/java/ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.ArrayLists">
+  <component name="RunManager" selected="Application.hashsets">
     <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.java.ArrayLists" />
       <module name="DSA" />
@@ -55,6 +55,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.DSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hashsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DSA.Hashing.hashsets" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.DSA.Hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hashsets" />
         <item itemvalue="Application.ArrayLists" />
         <item itemvalue="Application.secondLargest" />
         <item itemvalue="Application.insert" />
