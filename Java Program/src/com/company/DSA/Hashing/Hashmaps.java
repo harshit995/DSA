@@ -11,8 +11,10 @@ public class Hashmaps {
         map.put("US",220);
         map.put("AFRICA",100);
         map.put("china",100);
+        map.put("china",500);
+        map.put("china",100);
 
-//        System.out.println(map);
+        System.out.println(map);
 
         //update
         map.put("china",90);
