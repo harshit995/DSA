@@ -43,20 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Rain_trap">
-    <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.java.ArrayLists" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ShuffledString">
     <configuration name="FrequencyEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.DSA.Hashing.FrequencyEle" />
       <module name="DSA" />
@@ -96,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShuffledString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DSA.Array.ShuffledString" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.DSA.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hashsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.DSA.Hashing.hashsets" />
       <module name="DSA" />
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShuffledString" />
         <item itemvalue="Application.Rain_trap" />
         <item itemvalue="Application.FrequencyEle" />
         <item itemvalue="Application.Hashmaps" />
         <item itemvalue="Application.hashsets" />
-        <item itemvalue="Application.ArrayLists" />
       </list>
     </recent_temporary>
   </component>
