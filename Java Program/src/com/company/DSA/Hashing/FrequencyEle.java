@@ -17,7 +17,7 @@ public class FrequencyEle {
         return 0;
     }
     public static void main(String[] args) {
-        int[] arr={6,5,5,2,3};
+        int[] arr={6,5,5,2,3,4};
         int n=arr.length;
         System.out.println(freqEle(arr,n));
     }
