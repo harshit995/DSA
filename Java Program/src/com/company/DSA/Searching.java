@@ -1,7 +1,7 @@
 package com.company.DSA;
 public class Searching {
     public static void main (String[]args){
-        int[] arr={1,2,5,6,7};
+        int[] arr={1,2,5,6,7,9};
         int x=6;
         int n =arr.length;
 //                System.out.println("element is" + bsearchs(arr,x,n));
