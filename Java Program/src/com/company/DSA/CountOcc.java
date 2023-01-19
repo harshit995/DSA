@@ -1,6 +1,6 @@
 package com.company.DSA;
 
-public class CountOcc {
+ class CountOcc {
     static int firstOcc(int[] arr,int x){
         int low=0;
         int high=arr.length-1;

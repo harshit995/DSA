@@ -17,6 +17,6 @@ public class SquareRoot {
         return ans;
     }
     public static void main(String[] args) {
-        System.out.println("sqrt is " + square(26));
+        System.out.println("sqrt is " + square(2147395599));
     }
 }

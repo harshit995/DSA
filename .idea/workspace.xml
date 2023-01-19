@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7f7ab72d-30c2-4d8b-8d0a-1501d084da5a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Program/src/com/company/DSA/Searching.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Program/src/com/company/DSA/Searching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Program/src/com/company/DSA/CountOcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Program/src/com/company/DSA/CountOcc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Program/src/com/company/DSA/SortedRotated.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Program/src/com/company/DSA/SortedRotated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Program/src/com/company/DSA/SquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Program/src/com/company/DSA/SquareRoot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,26 +46,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.ShuffledString">
-    <configuration name="FrequencyEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DSA.Hashing.FrequencyEle" />
+  <component name="RunManager" selected="Application.SortedRotated">
+    <configuration name="CountOcc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DSA.CountOcc" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.DSA.Hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hashmaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DSA.Hashing.Hashmaps" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.DSA.Hashing.*" />
+          <option name="PATTERN" value="com.company.DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hashsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DSA.Hashing.hashsets" />
+    <configuration name="SortedRotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DSA.SortedRotated" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.DSA.Hashing.*" />
+          <option name="PATTERN" value="com.company.DSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DSA.SquareRoot" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortedRotated" />
+        <item itemvalue="Application.SquareRoot" />
+        <item itemvalue="Application.CountOcc" />
         <item itemvalue="Application.ShuffledString" />
         <item itemvalue="Application.Rain_trap" />
-        <item itemvalue="Application.FrequencyEle" />
-        <item itemvalue="Application.Hashmaps" />
-        <item itemvalue="Application.hashsets" />
       </list>
     </recent_temporary>
   </component>
