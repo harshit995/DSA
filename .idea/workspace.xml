@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7f7ab72d-30c2-4d8b-8d0a-1501d084da5a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Program/src/com/company/DSA/CountOcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Program/src/com/company/DSA/CountOcc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Program/src/com/company/DSA/SortedRotated.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Program/src/com/company/DSA/SortedRotated.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Program/src/com/company/DSA/SquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Program/src/com/company/DSA/SquareRoot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.SortedRotated">
+  <component name="RunManager" selected="Application.Intersection">
     <configuration name="CountOcc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.DSA.CountOcc" />
       <module name="DSA" />
@@ -60,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rain_trap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DSA.Array.Rain_trap" />
+    <configuration name="Intersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DSA.Intersection" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.DSA.Array.*" />
+          <option name="PATTERN" value="com.company.DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Intersection" />
         <item itemvalue="Application.SortedRotated" />
         <item itemvalue="Application.SquareRoot" />
         <item itemvalue="Application.CountOcc" />
         <item itemvalue="Application.ShuffledString" />
-        <item itemvalue="Application.Rain_trap" />
       </list>
     </recent_temporary>
   </component>
