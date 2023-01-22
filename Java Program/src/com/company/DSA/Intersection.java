@@ -1,20 +1,19 @@
 package com.company.DSA;
 import java.util.*;
 public class Intersection {
-
-
     public static int[] intersection(int[] nums1, int[] nums2) {
-        Set<Integer> set = new HashSet<>();
+        ArrayList<Integer> set = new ArrayList<>();
         Arrays.sort(nums2);
         for (Integer num : nums1) {
             if (binarySearch(nums2, num)) {
                 set.add(num);
             }
         }
-        int i = 0;
+
         int[] result = new int[set.size()];
-        for (Integer num : set) {
-            result[i++] = num;
+
+        for(int i=0;i<result.length;i++) {
+            result[i] = set.get(i);
         }
         return result;
     }
@@ -36,8 +35,12 @@ public class Intersection {
         return false;
     }
     public static void main(String[] args) {
-        int arr1[]={8,9,22,12};
-        int arr2[]={8,5};
-        System.out.println("elements are" + intersection(arr1,arr2));
+        int arr1[]={1,2,2,1};
+        int arr2[]={2,2};
+        int[] ans=intersection(arr1,arr2);
+//        System.out.println("elements are" + intersection(arr1,arr2));
+        for(int i:ans){
+            System.out.print(i+" ");
+        }
     }
 }
