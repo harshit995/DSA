@@ -4,8 +4,6 @@
     <list default="true" id="7f7ab72d-30c2-4d8b-8d0a-1501d084da5a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java Program/src/com/company/DSA/LinkedList/InsertAtEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Program/src/com/company/DSA/LinkedList/InsertAtEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Program/src/com/company/DSA/LinkedList/InsertBeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Program/src/com/company/DSA/LinkedList/InsertBeg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Program/src/com/company/DSA/LinkedList/traversing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Program/src/com/company/DSA/LinkedList/traversing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,33 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.InsertBeg">
+  <component name="RunManager" selected="Application.InsertAtEnd">
+    <configuration name="InsertAtEnd$Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DSA.LinkedList.InsertAtEnd$Node" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.DSA.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertAtEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DSA.LinkedList.InsertAtEnd" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.DSA.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InsertBeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.DSA.LinkedList.InsertBeg" />
       <module name="DSA" />
@@ -73,32 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedRotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DSA.SortedRotated" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.DSA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DSA.SquareRoot" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.DSA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="traversing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.DSA.LinkedList.traversing" />
       <module name="DSA" />
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertAtEnd" />
+        <item itemvalue="Application.InsertAtEnd$Node" />
         <item itemvalue="Application.InsertBeg" />
         <item itemvalue="Application.traversing" />
         <item itemvalue="Application.Intersection" />
-        <item itemvalue="Application.SortedRotated" />
-        <item itemvalue="Application.SquareRoot" />
       </list>
     </recent_temporary>
   </component>
