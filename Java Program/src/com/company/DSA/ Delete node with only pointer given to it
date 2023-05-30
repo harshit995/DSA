@@ -31,7 +31,7 @@ class Test {
         ptr.data=temp.data;
         ptr.next=temp.next;
     }
-    
+
     public static void printlist(Node head){
         Node curr=head;
         while(curr!=null){
