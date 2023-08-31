@@ -17,3 +17,6 @@ public class ques1 extends Frame {
         }
 
     }
+
+
+
