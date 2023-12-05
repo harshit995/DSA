@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 class Main {
-    
+
     public static void printPrevGreater(int arr[],int n){
 
         Stack <Integer> s=new Stack<>();
