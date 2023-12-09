@@ -18,7 +18,7 @@ class Test {
     }
 	public static void main (String[] args) {
 
-	    int[] arr=new int[]{18,12,13,14,11,16};
+	    int[] arr=new int[]{18,12,13,14,11};
 
         printSpan(arr,arr.length);
 
