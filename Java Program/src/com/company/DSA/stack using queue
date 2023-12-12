@@ -7,7 +7,7 @@ class Main {
 		static Queue<Integer> q1 = new LinkedList<Integer>();
 		static Queue<Integer> q2 = new LinkedList<Integer>();
 
-		
+
 		static int curr_size;
 
 		Stack()
